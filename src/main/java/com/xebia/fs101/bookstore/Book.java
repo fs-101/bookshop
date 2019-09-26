@@ -1,4 +1,4 @@
-package com.xebia.fs101.bookshop;
+package com.xebia.fs101.bookstore;
 
 import java.time.LocalDate;
 
